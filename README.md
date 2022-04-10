@@ -42,8 +42,8 @@ To reach this goal, it was done:
 - Adaptation of type checking functions (typeof functions)
 - Parser implementation and integration with the language's AST
 
-To see the code in action, you can run the interpreter and type `tp (1, 2)` (parses and returns the first) or `ts(1, 2)` (parses and returns the second)`. It also accepts boolean values.
+To see the code in action, you can run the interpreter and type `tp (1, 2)` (parses and returns the first) or `ts (1, 2)` (parses and returns the second). It also accepts boolean values.
 
----
+### More Information
 
 More details about the functions can be found in comments in the _Parser.y_ and _Interpreter.hs_ files.
